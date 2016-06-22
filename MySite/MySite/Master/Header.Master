@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Header.master.cs" Inherits="MySite.Header" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<head runat="server">
+
+    <title>My Site</title>
+    <link href="../Others/StyleFile.css" rel="stylesheet" type="text/css" />
+    
+    <asp:ContentPlaceHolder ID="Head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table class="HeaderTable">
+        <tr>
+            <td style="background-color:Gray; width:100%;">
+               <asp:Image ID="Image1" runat="server" ImageUrl="~/Others/hello.gif" Height="140px" Width="100%" />
+               <%--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1000" height="150">
+                  <param name="movie" value="Others/hello.swf" />
+                  <param name="quality" value="high" />
+                  <param name="allowScriptAccess" value="always" />
+                  <param name="wmode" value="transparent">
+                     <embed src="Others/hello.swf"
+                      quality="high"
+                      type="application/x-shockwave-flash"
+                      WMODE="transparent"
+                      width="1000"
+                      height="150"
+                      pluginspage="http://www.macromedia.com/go/getflashplayer"
+                      allowScriptAccess="always" />
+                </object>--%>
+            </td>
+        </tr>
+        <tr style="background-color:ThreeDShadow;">
+            <td>
+                <asp:ContentPlaceHolder ID="Body" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td style="height:5px; background-color:Gray; text-align:center;">
+                CopyRight@ CSE:3-2, 2012
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

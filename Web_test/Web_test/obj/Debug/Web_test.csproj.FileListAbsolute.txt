@@ -1,0 +1,10 @@
+J:\Programme\C#\Web_test\Web_test\bin\Web_test.dll
+J:\Programme\C#\Web_test\Web_test\bin\Web_test.pdb
+J:\Programme\C#\Web_test\Web_test\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Web_test\Web_test\obj\Debug\Web_test.dll
+J:\Programme\C#\Web_test\Web_test\obj\Debug\Web_test.pdb
+J:\Programme\ASP.net\Web_test\Web_test\bin\Web_test.dll
+J:\Programme\ASP.net\Web_test\Web_test\bin\Web_test.pdb
+J:\Programme\ASP.net\Web_test\Web_test\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\ASP.net\Web_test\Web_test\obj\Debug\Web_test.dll
+J:\Programme\ASP.net\Web_test\Web_test\obj\Debug\Web_test.pdb

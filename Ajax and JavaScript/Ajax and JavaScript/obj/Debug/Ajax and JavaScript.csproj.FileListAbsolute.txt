@@ -1,0 +1,10 @@
+C:\Users\Monowar\Desktop\Ajax and JavaScript\Ajax and JavaScript\bin\Ajax and JavaScript.dll
+C:\Users\Monowar\Desktop\Ajax and JavaScript\Ajax and JavaScript\bin\Ajax and JavaScript.pdb
+C:\Users\Monowar\Desktop\Ajax and JavaScript\Ajax and JavaScript\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\Ajax and JavaScript\Ajax and JavaScript\obj\Debug\Ajax and JavaScript.dll
+C:\Users\Monowar\Desktop\Ajax and JavaScript\Ajax and JavaScript\obj\Debug\Ajax and JavaScript.pdb
+J:\Programme\ASP.net\Ajax and JavaScript\Ajax and JavaScript\bin\Ajax and JavaScript.dll
+J:\Programme\ASP.net\Ajax and JavaScript\Ajax and JavaScript\bin\Ajax and JavaScript.pdb
+J:\Programme\ASP.net\Ajax and JavaScript\Ajax and JavaScript\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\ASP.net\Ajax and JavaScript\Ajax and JavaScript\obj\Debug\Ajax and JavaScript.dll
+J:\Programme\ASP.net\Ajax and JavaScript\Ajax and JavaScript\obj\Debug\Ajax and JavaScript.pdb

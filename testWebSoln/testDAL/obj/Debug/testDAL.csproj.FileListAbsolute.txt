@@ -1,0 +1,14 @@
+E:\CSE3210\22-02-12\testWebSoln\testDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\CSE3210\22-02-12\testWebSoln\testDAL\bin\Debug\testDAL.dll
+E:\CSE3210\22-02-12\testWebSoln\testDAL\bin\Debug\testDAL.pdb
+E:\CSE3210\22-02-12\testWebSoln\testDAL\obj\Debug\testDAL.dll
+E:\CSE3210\22-02-12\testWebSoln\testDAL\obj\Debug\testDAL.pdb
+E:\CSE3210\22-02-12\testWebSoln\testDAL\bin\Debug\DALUtil.dll
+E:\CSE3210\22-02-12\testWebSoln\testDAL\bin\Debug\DALUtil.pdb
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testDAL\bin\Debug\testDAL.dll
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testDAL\bin\Debug\testDAL.pdb
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testDAL\bin\Debug\DALUtil.dll
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testDAL\bin\Debug\DALUtil.pdb
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testDAL\obj\Debug\testDAL.dll
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testDAL\obj\Debug\testDAL.pdb

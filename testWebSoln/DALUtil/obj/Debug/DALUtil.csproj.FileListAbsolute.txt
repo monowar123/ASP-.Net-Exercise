@@ -1,0 +1,10 @@
+E:\CSE3210\22-02-12\testWebSoln\DALUtil\obj\Debug\ResolveAssemblyReference.cache
+E:\CSE3210\22-02-12\testWebSoln\DALUtil\bin\Debug\DALUtil.dll
+E:\CSE3210\22-02-12\testWebSoln\DALUtil\bin\Debug\DALUtil.pdb
+E:\CSE3210\22-02-12\testWebSoln\DALUtil\obj\Debug\DALUtil.dll
+E:\CSE3210\22-02-12\testWebSoln\DALUtil\obj\Debug\DALUtil.pdb
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\DALUtil\bin\Debug\DALUtil.dll
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\DALUtil\bin\Debug\DALUtil.pdb
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\DALUtil\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\DALUtil\obj\Debug\DALUtil.dll
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\DALUtil\obj\Debug\DALUtil.pdb

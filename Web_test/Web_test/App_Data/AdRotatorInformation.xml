@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~\Images\116th aniversary of xray discovery2010.gif</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>Google logo</AlternateText>
+    <Impressions>1</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~\Images\2010 Fifa world cup final.gif</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>Google logo</AlternateText>
+    <Impressions>1</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~\Images\20th Anniversary of  Hubble telescop Launched by NASA.png</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>Google logo</AlternateText>
+    <Impressions>1</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~\Images\50th aniversary of flinstom.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>Google logo</AlternateText>
+    <Impressions>1</Impressions>
+  </Ad>
+</Advertisements>

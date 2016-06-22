@@ -1,0 +1,10 @@
+C:\Users\Monowar\Desktop\Roles_Membership\Roles_Membership\bin\Roles_Membership.dll
+C:\Users\Monowar\Desktop\Roles_Membership\Roles_Membership\bin\Roles_Membership.pdb
+C:\Users\Monowar\Desktop\Roles_Membership\Roles_Membership\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\Roles_Membership\Roles_Membership\obj\Debug\Roles_Membership.dll
+C:\Users\Monowar\Desktop\Roles_Membership\Roles_Membership\obj\Debug\Roles_Membership.pdb
+J:\Programme\ASP.net\Roles_Membership\Roles_Membership\bin\Roles_Membership.dll
+J:\Programme\ASP.net\Roles_Membership\Roles_Membership\bin\Roles_Membership.pdb
+J:\Programme\ASP.net\Roles_Membership\Roles_Membership\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\ASP.net\Roles_Membership\Roles_Membership\obj\Debug\Roles_Membership.dll
+J:\Programme\ASP.net\Roles_Membership\Roles_Membership\obj\Debug\Roles_Membership.pdb

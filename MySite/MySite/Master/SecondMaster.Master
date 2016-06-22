@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Master/Header.Master" AutoEventWireup="true" CodeBehind="SecondMaster.master.cs" Inherits="MySite.SecondMaster" %>
+
+<asp:Content ID="newHead" ContentPlaceHolderID="Head" runat="server">
+    
+</asp:Content>
+
+<asp:Content ID="newBody" ContentPlaceHolderID="Body" runat="server">
+    <table width="100%">        
+        <tr>
+            <td valign="top" style="width:100px;">
+                <asp:Menu ID="Menu1" runat="server" BorderColor="#FF99CC" Width="115px" Height="100px" Font-Bold="true">                   
+                            <StaticMenuStyle BackColor="Beige" />
+                            <StaticHoverStyle BackColor="Bisque" />
+                            <DynamicMenuStyle BackColor="Beige" />
+                            <DynamicHoverStyle BackColor="Bisque" />
+                            
+                            <Items>
+                                <asp:MenuItem Text="Home" Value="Home" NavigateUrl="~/Home.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Profile" Value="Profile" NavigateUrl="~/Profile.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Settings" Value="Settings">
+                                    <asp:MenuItem Text="Update profile" Value="Update profile"></asp:MenuItem>
+                                    <asp:MenuItem Text="Change Password" Value="Change Password"></asp:MenuItem>
+                                </asp:MenuItem>
+                            </Items>
+                        </asp:Menu>              
+            </td>
+            <td>
+                <asp:ContentPlaceHolder ID="Information" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+</asp:Content>

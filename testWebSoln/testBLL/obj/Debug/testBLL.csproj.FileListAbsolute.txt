@@ -1,0 +1,18 @@
+E:\CSE3210\22-02-12\testWebSoln\testBLL\bin\Debug\testBLL.dll
+E:\CSE3210\22-02-12\testWebSoln\testBLL\bin\Debug\testBLL.pdb
+E:\CSE3210\22-02-12\testWebSoln\testBLL\obj\Debug\ResolveAssemblyReference.cache
+E:\CSE3210\22-02-12\testWebSoln\testBLL\obj\Debug\testBLL.dll
+E:\CSE3210\22-02-12\testWebSoln\testBLL\obj\Debug\testBLL.pdb
+E:\CSE3210\22-02-12\testWebSoln\testBLL\bin\Debug\testDAL.dll
+E:\CSE3210\22-02-12\testWebSoln\testBLL\bin\Debug\testDAL.pdb
+E:\CSE3210\22-02-12\testWebSoln\testBLL\bin\Debug\DALUtil.dll
+E:\CSE3210\22-02-12\testWebSoln\testBLL\bin\Debug\DALUtil.pdb
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testBLL\bin\Debug\testBLL.dll
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testBLL\bin\Debug\testBLL.pdb
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testBLL\bin\Debug\testDAL.dll
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testBLL\bin\Debug\DALUtil.dll
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testBLL\bin\Debug\DALUtil.pdb
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testBLL\bin\Debug\testDAL.pdb
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testBLL\obj\Debug\testBLL.dll
+C:\Documents and Settings\Monowar\Desktop\testWebSoln\testBLL\obj\Debug\testBLL.pdb

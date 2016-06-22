@@ -1,0 +1,7 @@
+C:\Users\Monowar\Desktop\Album\Album\bin\Album.dll
+C:\Users\Monowar\Desktop\Album\Album\bin\Album.pdb
+C:\Users\Monowar\Desktop\Album\Album\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\Album\Album\obj\Debug\Album.dll
+C:\Users\Monowar\Desktop\Album\Album\obj\Debug\Album.pdb
+C:\Users\Monowar\Desktop\Album\Album\obj\Debug\Album.Properties.Resources.resources
+C:\Users\Monowar\Desktop\Album\Album\obj\Debug\Album.csproj.GenerateResource.Cache

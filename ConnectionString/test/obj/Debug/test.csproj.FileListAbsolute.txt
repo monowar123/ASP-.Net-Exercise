@@ -1,0 +1,5 @@
+C:\Users\Monowar\Desktop\test\test\bin\test.dll
+C:\Users\Monowar\Desktop\test\test\bin\test.pdb
+C:\Users\Monowar\Desktop\test\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\test\test\obj\Debug\test.dll
+C:\Users\Monowar\Desktop\test\test\obj\Debug\test.pdb

@@ -1,0 +1,5 @@
+J:\Programme\ASP.net\MySite\MySite\bin\MySite.dll
+J:\Programme\ASP.net\MySite\MySite\bin\MySite.pdb
+J:\Programme\ASP.net\MySite\MySite\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\ASP.net\MySite\MySite\obj\Debug\MySite.dll
+J:\Programme\ASP.net\MySite\MySite\obj\Debug\MySite.pdb

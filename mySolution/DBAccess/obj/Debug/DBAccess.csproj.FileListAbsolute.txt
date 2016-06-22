@@ -1,0 +1,5 @@
+C:\Users\Monowar\Desktop\mySolution\DBAccess\bin\Debug\DBAccess.dll
+C:\Users\Monowar\Desktop\mySolution\DBAccess\bin\Debug\DBAccess.pdb
+C:\Users\Monowar\Desktop\mySolution\DBAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\mySolution\DBAccess\obj\Debug\DBAccess.dll
+C:\Users\Monowar\Desktop\mySolution\DBAccess\obj\Debug\DBAccess.pdb

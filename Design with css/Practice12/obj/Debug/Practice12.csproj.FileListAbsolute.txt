@@ -1,0 +1,10 @@
+C:\Users\Monowar\Desktop\Practice12\Practice12\bin\Practice12.dll
+C:\Users\Monowar\Desktop\Practice12\Practice12\bin\Practice12.pdb
+C:\Users\Monowar\Desktop\Practice12\Practice12\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\Practice12\Practice12\obj\Debug\Practice12.dll
+C:\Users\Monowar\Desktop\Practice12\Practice12\obj\Debug\Practice12.pdb
+J:\Programme\ASP.net\Design with css\Practice12\bin\Practice12.dll
+J:\Programme\ASP.net\Design with css\Practice12\bin\Practice12.pdb
+J:\Programme\ASP.net\Design with css\Practice12\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\ASP.net\Design with css\Practice12\obj\Debug\Practice12.dll
+J:\Programme\ASP.net\Design with css\Practice12\obj\Debug\Practice12.pdb
